@@ -1,2 +1,3 @@
 # Apple-Fruit-Disease-Classification-using-Naive-Bayes-Algorithm
-Apple Fruit Disease Classification using Naïve Bayes Algorithm
+Classification of Apple Fruit Disease using Naïve Bayes Algorithm.
+Here is the link to the dataset ->https://www.kaggle.com/datasets/kaivalyashah/apple-disease-detection
