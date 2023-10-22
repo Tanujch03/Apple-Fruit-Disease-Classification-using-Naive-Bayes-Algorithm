@@ -2,6 +2,7 @@
 Classification of Apple Fruit Disease using Naïve Bayes Algorithm.
 Here is the link to the dataset ->https://www.kaggle.com/datasets/kaivalyashah/apple-disease-detection
 
+# Abstract
 Apples are one of the most productive varieties of fruit in the world, with a high 
 nutritional and medicinal value. However, numerous diseases affect apple production 
 on a wide scale, resulting in significant economic losses. These diseases often go 
