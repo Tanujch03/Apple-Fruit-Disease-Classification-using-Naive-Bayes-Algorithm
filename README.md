@@ -75,5 +75,19 @@ preprocess it.<br><br>
 
 ![image](https://github.com/Tanujch03/Apple-Fruit-Disease-Classification-using-Naive-Bayes-Algorithm/assets/112710926/d64b3857-01d6-480d-8c17-0104d09a3fac)
 
+# Limitation/Constraints of the System<br>
+This project does not give 100% accuracy, At first of testing stage, we got an accuracy of around 51%, we put all are efforts, and tried to improve the accuracy to 70.83333333333334%. Even though we can improve the accuracy further.
+
+# Future Enhancement<br>
+
+In further we can enhance the accuracy above 90%, by applying these methods.<br><br>
+
+Image segmentation: At this stage to get an image with the same provisions with the intention of making it easier for the system to process the image is done cropping and then the image data used is converted into grayscale imagery with the aim to be able to display 1 color on each image after that is done noise removal to smooth the image so that in the process later can produce maximum results that are then done detection of canny edge lines that are useful as segmentation citra. on each preprocess done with the intention to give good results at the time of extracting texture characteristics.<br><br>
+
+Feature extraction: By Grey Level Co-occurrence Matrix Method is a matrix whose components are the number of pairs of pixels with the same brightness degree, divided by d pixels and with an inclination angle of.
+And by building a Mobile Application.<br><br>
+
+
+
 
 
