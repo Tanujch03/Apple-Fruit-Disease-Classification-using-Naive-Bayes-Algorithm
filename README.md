@@ -16,7 +16,7 @@ normal apples were easy to discern from diseased apples in our trial, and by
 implementing the naïve bayes algorithm with a classification accuracy of more than 
 70.83333333333334 percent.
 
-#PROBLEM STATEMENT:
+# PROBLEM STATEMENT:
 ->As many farmers are suffering from the low productivity of apples due to the 
 effects of major diseases such as apple rust and apple scab etc.
 -> Apple fruit diseases can result in major yield and quality losses. These diseases 
@@ -28,7 +28,7 @@ be detected because it has a very high accuracy.
 Bayes Algorithm.
 
 
-#Organization of the work:
+# Organization of the work:
 1.Install the datasets(Apple fruit Disease dataset) from Kaggle.
 2.Load all the required libraries.
 3.The dataset contains two folder Train and Test.
