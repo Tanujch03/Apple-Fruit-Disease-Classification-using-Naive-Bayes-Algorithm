@@ -18,7 +18,7 @@ implementing the naïve bayes algorithm with a classification accuracy of more t
 70.83333333333334 percent.
 
 # Intro
-INTRODUCTION:
+
 1) Apple is a fruit that is eaten and cultivated all over the world, Because of its delicacy and 
 high nutritional value.<br>
 2) Numerous diseases affect apple production on a wide scale, resulting in significant economic 
@@ -48,14 +48,14 @@ diseases are represented as 0,1,2,3 in the model.<br>
 
 
 # PROBLEM STATEMENT:
-->As many farmers are suffering from the low productivity of apples due to the 
+1) As many farmers are suffering from the low productivity of apples due to the 
 effects of major diseases such as apple rust and apple scab etc.<br><br>
--> Apple fruit diseases can result in major yield and quality losses. These diseases 
+2) Apple fruit diseases can result in major yield and quality losses. These diseases 
 often go overlooked until just before, after, or after fruit has been processed.<br><br>
--> Naïve Bayes classifiers can be used for disease detection in plants and in the 
+3) Naïve Bayes classifiers can be used for disease detection in plants and in the 
 sense of helping farmers automatic detection of all kinds of diseases in plants to 
 be detected because it has a very high accuracy.<br><br>
--> The main purpose is to detect the diseased fruits. Using python and using Naive 
+4) The main purpose is to detect the diseased fruits. Using python and using Naive 
 Bayes Algorithm.<br><br>
 
 
