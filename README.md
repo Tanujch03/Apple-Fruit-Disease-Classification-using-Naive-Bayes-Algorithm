@@ -70,3 +70,10 @@ preprocess it.<br><br>
 7.Checking the accuracy.<br><br>
 8.Testing.<br><br>
 
+
+# Software Architectural designs<br>
+
+![image](https://github.com/Tanujch03/Apple-Fruit-Disease-Classification-using-Naive-Bayes-Algorithm/assets/112710926/d64b3857-01d6-480d-8c17-0104d09a3fac)
+
+
+
