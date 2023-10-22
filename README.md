@@ -60,13 +60,13 @@ Bayes Algorithm.<br><br>
 
 
 # Organization of the work:<br>
-1.Install the datasets(Apple fruit Disease dataset) from Kaggle.<br>
-2.Load all the required libraries.<br>
-3.The dataset contains two folder Train and Test.<br>
+1.Install the datasets(Apple fruit Disease dataset) from Kaggle.<br><br>
+2.Load all the required libraries.<br><br>
+3.The dataset contains two folder Train and Test.<br><br>
 4.Load trained images from Train folder and Tested images from Test folder and 
-preprocess it.<br>
-5.splitting data into train and test.<br>
-6.Fitting the Naïve Bayes Classifier.<br>
-7.Checking the accuracy.<br>
-8.Testing.<br>
+preprocess it.<br><br>
+5.splitting data into train and test.<br><br>
+6.Fitting the Naïve Bayes Classifier.<br><br>
+7.Checking the accuracy.<br><br>
+8.Testing.<br><br>
 
