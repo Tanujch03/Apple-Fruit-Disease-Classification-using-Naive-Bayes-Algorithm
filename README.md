@@ -33,13 +33,13 @@ diseases are represented as 0,1,2,3 in the model.<br>
      Apple blotch is a fungus that causes black, uneven, or lobed edges on the fruit's surface<br>
  ![image](https://github.com/Tanujch03/Apple-Fruit-Disease-Classification-using-Naive-Bayes-Algorithm/assets/112710926/86d0d648-8b5d-4649-ac31-87200611ddae)
 
-Apple Rot:<br>
+5) Apple Rot:<br>
      Apple rot causes somewhat sunken, oval brown or black patches that are often surrounded by a red halo.<br>
  ![image](https://github.com/Tanujch03/Apple-Fruit-Disease-Classification-using-Naive-Bayes-Algorithm/assets/112710926/99769eb6-e679-4029-abff-84b5b2a98755)
 
  
 
-Apple Scab:<br>
+6) Apple Scab:<br>
       Apple scabs appear as gray or brown corky patches on the apple.<br>
  ![image](https://github.com/Tanujch03/Apple-Fruit-Disease-Classification-using-Naive-Bayes-Algorithm/assets/112710926/eb414a7a-6ff9-4696-8e02-cf366dcf6a8a)<br>
 
