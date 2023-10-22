@@ -18,24 +18,24 @@ implementing the naïve bayes algorithm with a classification accuracy of more t
 
 # PROBLEM STATEMENT:
 ->As many farmers are suffering from the low productivity of apples due to the 
-effects of major diseases such as apple rust and apple scab etc.
+effects of major diseases such as apple rust and apple scab etc.<br><br>
 -> Apple fruit diseases can result in major yield and quality losses. These diseases 
-often go overlooked until just before, after, or after fruit has been processed.
+often go overlooked until just before, after, or after fruit has been processed.<br><br>
 -> Naïve Bayes classifiers can be used for disease detection in plants and in the 
 sense of helping farmers automatic detection of all kinds of diseases in plants to 
-be detected because it has a very high accuracy.
+be detected because it has a very high accuracy.<br><br>
 -> The main purpose is to detect the diseased fruits. Using python and using Naive 
-Bayes Algorithm.
+Bayes Algorithm.<br><br>
 
 
-# Organization of the work:
-1.Install the datasets(Apple fruit Disease dataset) from Kaggle.
-2.Load all the required libraries.
-3.The dataset contains two folder Train and Test.
+# Organization of the work:<br>
+1.Install the datasets(Apple fruit Disease dataset) from Kaggle.<br>
+2.Load all the required libraries.<br>
+3.The dataset contains two folder Train and Test.<br>
 4.Load trained images from Train folder and Tested images from Test folder and 
-preprocess it.
-5.splitting data into train and test.
-6.Fitting the Naïve Bayes Classifier.
-7.Checking the accuracy.
-8.Testing.
+preprocess it.<br>
+5.splitting data into train and test.<br>
+6.Fitting the Naïve Bayes Classifier.<br>
+7.Checking the accuracy.<br>
+8.Testing.<br>
 
